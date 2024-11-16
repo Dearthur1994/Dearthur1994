@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dearthur1994
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning Fullstack development and software testing
-- 💞️ I’m looking to collaborate on fullstack and software testing
-- 📫 How to reach me http://linkedin.com/in/richard-zotor
+- 👋 Hi, I’m Richard Zotor, a QA Engineer
+- 👀 I’m interested in QA Engineering roles
+- 🌱 I’m currently working on driving innovation in testing practices to improve efficiency and ensure high-quality deliverables.
+- 💞️ I’m looking to collaborate with organizations dedicated to advancing and innovating software testing practices.
+- 📫 How to reach me https://www.linkedin.com/in/richard-zotor/
 
 <!---
 Dearthur1994/Dearthur1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
